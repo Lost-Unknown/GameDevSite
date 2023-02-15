@@ -155,7 +155,7 @@ span{
     float: right;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1028px) {
     :root{
         --leftpadding :30px;
     }
@@ -175,7 +175,7 @@ span{
 
 }
 
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 1200px){
     P{
         width: 70%;
     }
